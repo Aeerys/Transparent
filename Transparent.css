@@ -201,5 +201,7 @@ body::after {
 .withLayer-RoELSG {
 	z-index: -1;
 }
-
+.scrollableContainer-2NUZem {								/* textarea				container							*/
+	background-color: rgba(var(--transparencycolor), .3);
+}
 
