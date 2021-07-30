@@ -1,15 +1,3 @@
-/**
- * @name         Transparency
- * @description  Transparenc Discord Theme
- * @author       Hayven
- * @version      1.0
- */
-
-/* Imports */
-
-
-/* Codes */
-
 .theme-light, .theme-dark {
 	--text-positive: rgb(var(--successcolor));
 	--text-warning: rgb(var(--warningcolor));
