@@ -75,7 +75,10 @@ body,														/* body														*/
 #app-mount .scrollerBase-289Jih,							/* scroller													*/
 #app-mount .scroller-2FKFPG,								/* scroller old												*/
 #app-mount .standardSidebarView-3F1I7i,						/* settings													*/
-#app-mount .contentRegion-3nDuYy {							/* settings				content								*/
+#app-mount .contentRegion-3nDuYy,
+#app-mount .header-3msK0M,
+#app-mount .templatesList-2E6rTe,
+#app-mount .footer-1NnaNd {							/* settings				content								*/
 	background: transparent;
 }
 
@@ -117,7 +120,6 @@ body,														/* body														*/
 	background-image: url(https://discord.com/assets/e9baf4b505eb54129f832556ea16538e.svg);
 	opacity: 0.6;
 }
-
 
 /* ~~~~		2.		BACKGROUND						~~~~ */
 
