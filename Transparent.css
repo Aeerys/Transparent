@@ -68,6 +68,7 @@ body,														/* body														*/
 #app-mount .members-1998pB,									/* members													*/
 #app-mount .members-1998pB > div,							/* members				content								*/
 #app-mount .content-MLh4nU,									/* unavailable												*/
+#app-mount .content-1gYQeQ,
 #app-mount .container-1D34oG,								/* peoples													*/
 #app-mount .container-lRFx4q,								/* peoples				activity list						*/
 #app-mount .applicationStore-1pNvnv,						/* nitro													*/
@@ -191,7 +192,7 @@ body::after {
 }
 .uploadArea-3QgLtW::before,
 .backdrop-29yll0::before,
-.backdrop-1wrmKB::before {
+.backdrop-1wrmKB::before,
 	background: var(--backdrop) var(--backdropposition)/var(--backdropsize);
 	background-attachment: fixed;
 }
@@ -203,7 +204,7 @@ body::after {
 .withLayer-RoELSG {
 	z-index: -1;
 }
-.scrollableContainer-2NUZem {								/* textarea				container							*/
+.scrollableContainer-15eg7h {								/* textarea				container							*/
 	background-color: rgba(var(--transparencycolor), .3);
 }
 ::-webkit-scrollbar,
